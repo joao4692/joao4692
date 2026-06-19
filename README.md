@@ -1,22 +1,22 @@
 <h1 align="center">João Carlos | Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+web+reais" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+reais+e+escal%C3%A1veis" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Desenvolvedor Full Stack focado em construir aplicações web funcionais, escaláveis e bem estruturadas.
+Sou desenvolvedor Full Stack focado em construir aplicações web modernas, APIs robustas e sistemas escaláveis.
 
-Tenho experiência com desenvolvimento backend, APIs REST, automação de processos e bancos de dados relacionais.
+Tenho experiência prática com backend, automação e bancos de dados relacionais, sempre buscando escrever código limpo, organizado e pronto para produção.
 
-Busco minha primeira oportunidade profissional na área para aplicar e evoluir meus conhecimentos em projetos reais.
+Atualmente estou em busca de oportunidades como **Desenvolvedor Júnior ou Estágio**, com foco em evolução profissional através de projetos reais.
 
 ---
 
-## Tecnologias
+## Stack de Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,js,html,css,docker,postgres,git,linux" />
@@ -24,27 +24,48 @@ Busco minha primeira oportunidade profissional na área para aplicar e evoluir m
 
 ---
 
-## Projetos em destaque
+## Experiência prática / Projetos
 
-### Sistema de Estoque (Web)
-Sistema de controle de estoque desenvolvido com foco em organização de produtos, categorias e controle de entrada e saída.
+### Sistema de Estoque Web
+Sistema de controle de estoque desenvolvido para organização de produtos e gestão de entradas e saídas.
 
-- Backend com Flask (Python)
-- Interface web com WordPress + Elementor
+**Tecnologias:**
+- Python (Flask)
+- WordPress + Elementor
+- HTML/CSS
+
+**Destaques:**
+- Controle de produtos por categoria
 - Estrutura simples e funcional
-- Foco em aprendizado e evolução contínua
+- Foco em aprendizado de backend e lógica de sistemas
 
 ---
 
-### Projetos em desenvolvimento
-- API REST com Node.js + TypeScript
-- Sistema de autenticação JWT
-- Integração com banco PostgreSQL
-- Estudos em Docker e deploy
+### API REST (Em desenvolvimento)
+API backend com foco em autenticação e estrutura escalável.
+
+**Tecnologias:**
+- Node.js
+- TypeScript
+- PostgreSQL
+- Docker
+
+**Destaques:**
+- Estrutura modular
+- Autenticação JWT
+- Preparação para deploy
 
 ---
 
-## Estatísticas do GitHub
+### Automação com Python (Estudos)
+Scripts para automação de tarefas e produtividade.
+
+**Tecnologias:**
+- Python
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" />
@@ -58,7 +79,7 @@ Sistema de controle de estoque desenvolvido com foco em organização de produto
 
 ## Objetivo profissional
 
-Busco uma oportunidade como Desenvolvedor Júnior ou Estágio em Desenvolvimento Web para atuar em projetos reais, evoluir tecnicamente e contribuir com soluções de impacto.
+Busco oportunidade como **Desenvolvedor Júnior ou Estágio em Desenvolvimento Web**, atuando em backend ou full stack, com foco em aprendizado contínuo, evolução técnica e participação em projetos reais.
 
 ---
 
@@ -68,4 +89,8 @@ Busco uma oportunidade como Desenvolvedor Júnior ou Estágio em Desenvolvimento
   <a href="https://github.com/SEU_USUARIO">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <b>Aberto a oportunidades e colaboração em projetos.</b>
 </p>
