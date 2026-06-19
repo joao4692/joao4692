@@ -1,24 +1,18 @@
 <h1 align="center">João Carlos | Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL;Foco+em+construir+solu%C3%A7%C3%B5es+reais+e+esc%C3%A1veis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+web+reais" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack em evolução, com foco em construção de aplicações web modernas, APIs e sistemas escaláveis.
+Desenvolvedor Full Stack focado em construir aplicações web funcionais, escaláveis e bem estruturadas.
 
-Tenho interesse em backend, automação e arquitetura de sistemas, buscando sempre escrever código limpo e eficiente.
+Tenho experiência com desenvolvimento backend, APIs REST, automação de processos e bancos de dados relacionais.
 
-Atualmente trabalho com:
-
-- Desenvolvimento backend com Node.js e TypeScript  
-- Criação de APIs REST  
-- Conteinerização com Docker  
-- Banco de dados PostgreSQL  
-- Automação com Python  
+Busco minha primeira oportunidade profissional na área para aplicar e evoluir meus conhecimentos em projetos reais.
 
 ---
 
@@ -27,6 +21,26 @@ Atualmente trabalho com:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,js,html,css,docker,postgres,git,linux" />
 </p>
+
+---
+
+## Projetos em destaque
+
+### Sistema de Estoque (Web)
+Sistema de controle de estoque desenvolvido com foco em organização de produtos, categorias e controle de entrada e saída.
+
+- Backend com Flask (Python)
+- Interface web com WordPress + Elementor
+- Estrutura simples e funcional
+- Foco em aprendizado e evolução contínua
+
+---
+
+### Projetos em desenvolvimento
+- API REST com Node.js + TypeScript
+- Sistema de autenticação JWT
+- Integração com banco PostgreSQL
+- Estudos em Docker e deploy
 
 ---
 
@@ -42,12 +56,9 @@ Atualmente trabalho com:
 
 ---
 
-## Objetivo atual
+## Objetivo profissional
 
-- Aprofundar conhecimentos em backend e arquitetura de sistemas  
-- Melhorar performance e boas práticas em APIs  
-- Evoluir em Docker e deploy de aplicações  
-- Conquistar uma oportunidade como desenvolvedor júnior ou estágio  
+Busco uma oportunidade como Desenvolvedor Júnior ou Estágio em Desenvolvimento Web para atuar em projetos reais, evoluir tecnicamente e contribuir com soluções de impacto.
 
 ---
 
