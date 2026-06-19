@@ -1,73 +1,60 @@
-<h1 align="center">⚡ JOÃO CARLOS | DESENVOLVEDOR FULL STACK ⚡</h1>
+<h1 align="center">João Carlos | Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF9F&center=true&vCenter=true&width=600&lines=Construindo+sistemas+reais+e+escaláveis;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL+%7C+APIs+REST;Transformando+ideias+em+produtos+digitais" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL;Foco+em+construir+solu%C3%A7%C3%B5es+reais+e+esc%C3%A1veis" />
 </p>
 
 ---
 
-## 🧠 PERFIL
+## Sobre mim
 
-> usuário: joaocarlos  
-> função: desenvolvedor full stack  
-> status: construindo sistemas reais  
-> localização: Recife - Brasil  
-> modo: evolução contínua ativada  
+Sou desenvolvedor Full Stack em evolução, com foco em construção de aplicações web modernas, APIs e sistemas escaláveis.
 
----
+Tenho interesse em backend, automação e arquitetura de sistemas, buscando sempre escrever código limpo e eficiente.
 
-## ⚙️ TECNOLOGIAS
+Atualmente trabalho com:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,js,html,css,docker,postgres,git,linux,vscode" />
-</p>
-
----
-
-## 📊 GITHUB
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 FOCO ATUAL
-
-- Desenvolvimento backend com Node.js + TypeScript  
-- Criação de APIs REST seguras e escaláveis  
-- Uso de Docker em ambientes reais  
-- PostgreSQL (modelagem e performance)  
+- Desenvolvimento backend com Node.js e TypeScript  
+- Criação de APIs REST  
+- Conteinerização com Docker  
+- Banco de dados PostgreSQL  
 - Automação com Python  
 
 ---
 
-## 🐍 CONTRIBUIÇÕES
+## Tecnologias
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,js,html,css,docker,postgres,git,linux" />
 </p>
 
 ---
 
-## 📫 CONTATO
+## Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default" />
+</p>
+
+---
+
+## Objetivo atual
+
+- Aprofundar conhecimentos em backend e arquitetura de sistemas  
+- Melhorar performance e boas práticas em APIs  
+- Evoluir em Docker e deploy de aplicações  
+- Conquistar uma oportunidade como desenvolvedor júnior ou estágio  
+
+---
+
+## Contato
 
 <p align="center">
   <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9F"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  "Código, evolução e construção constante."
 </p>
