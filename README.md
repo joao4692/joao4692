@@ -6,7 +6,7 @@
 
 ---
 
-## Perfil Profissional
+## Perfil 
 
 Desenvolvedor Full Stack com foco em **Node.js, TypeScript e React**, atuando na construção de sistemas web completos, APIs escaláveis e aplicações modernas.
 
@@ -18,12 +18,13 @@ Busco oportunidades como **Desenvolvedor Júnior ou Estágio**, com foco em evol
 
 ## Stack Principal
 
-- Frontend: React, HTML, CSS, JavaScript  
-- Backend: Node.js, TypeScript  
-- Banco de Dados: PostgreSQL  
-- DevOps: Docker, Linux  
-- Versionamento: Git / GitHub  
-- Outros: Python (apoio em automação e backend)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,docker,git,linux,python" />
+</p>
 
 ---
 
