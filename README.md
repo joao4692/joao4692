@@ -1,4 +1,25 @@
-<h1 align="center">⚡ João Carlos | Full Stack Developer</h1>
+<h1 align="center">⚡ JOÃO CARLOS | FULL STACK ENGINEER ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00FF9F&center=true&vCenter=true&width=600&lines=Building+systems+that+scale...;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL+%7C+APIs;Turning+ideas+into+real+products" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
+## 🧠 SYSTEM PROFILE
+
+```bash
+> user: joaocarlos
+> role: full stack developer
+> status: building real-world systems
+> location: Recife, BR
+> mindset: growth mode enabled<h1 align="center">⚡ João Carlos | Full Stack Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL+Enthusiast;Construindo+solu%C3%A7%C3%B5es+reais+com+c%C3%B3digo" />
@@ -53,7 +74,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Joao4692">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
 </p>
