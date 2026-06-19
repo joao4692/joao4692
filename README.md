@@ -82,12 +82,28 @@ Plataforma desenvolvida com foco em organização de dados esportivos e estrutur
 
 ---
 
+
 ## Contato Profissional
 
-- LinkedIn: https://www.linkedin.com/in/joao-carlos-leite-da-silva-452319333  
-- WhatsApp: https://wa.me/5581987033735  
-- GitHub: https://github.com/SEU_USUARIO  
+<p align="center">
 
+<a href="https://www.linkedin.com/in/joao-carlos-leite-da-silva-452319333">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5581987033735">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/joao4692">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=2F80ED&center=true&vCenter=true&width=500&lines=Dispon%C3%ADvel+para+oportunidades;Desenvolvedor+Full+Stack+em+evolu%C3%A7%C3%A3o" />
+</p>
 ---
 
 <p align="center">
