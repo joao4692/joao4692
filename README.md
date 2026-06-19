@@ -1,17 +1,27 @@
-👨‍💻🚀 Transformando ideias em soluções reais através da tecnologia.
+<h1 align="center">Olá 👋, eu sou João</h1>
 
-💡 Do conceito ao produto final, desenvolvo sistemas e automações que simplificam processos, aumentam resultados e geram impacto na vida das pessoas.
+<p align="center">
+  Desenvolvedor Full Stack | Node.js | Python | TypeScript
+</p>
 
-⚙️ Desenvolvimento Web • 🌐 Sistemas Web • 🤖 Automação • 📊 Soluções Digitais
+---
 
-🚀 Apaixonado por criar projetos que saem do papel e se transformam em resultados reais.
+### 🚀 Sobre mim
+- 💻 Estudando desenvolvimento web
+- ⚙️ Foco em Node.js, TypeScript e Python
+- 📍 Recife - Brasil
+- 🎯 Buscando evoluir como dev full stack
 
-Ou uma versão mais forte para perfil:
+---
 
-🧑‍💻 Desenvolvedor Full Stack | Transformando ideias em realidade digital
+### 🧠 Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,git" />
+</p>
 
-🚀 Crio aplicações web, sistemas e automações que ajudam empresas e pessoas a ganhar produtividade, reduzir tarefas repetitivas e alcançar melhores resultados.
+---
 
-💡 Tecnologia não é apenas código, é a ferramenta que transforma sonhos em soluções reais.
-
-⚡ Node.js • TypeScript • Python • React • Banco de Dados • APIs • Cloud
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true" />
+</p>
