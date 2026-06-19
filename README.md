@@ -1,14 +1,14 @@
 <h1 align="center">João Carlos | Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript;APIs+%7C+Docker+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+reais+e+escal%C3%A1veis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript+%7C+React;APIs+%7C+Docker+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+reais+e+escal%C3%A1veis" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack com foco principal em **Node.js e TypeScript**, atuando na criação de APIs, sistemas web e aplicações escaláveis.
+Sou desenvolvedor Full Stack com foco principal em **Node.js, TypeScript e React**, atuando na criação de aplicações web, APIs e sistemas escaláveis.
 
 Tenho experiência com bancos de dados relacionais, Docker e integração de sistemas.
 
@@ -21,7 +21,7 @@ Busco oportunidade como **Desenvolvedor Júnior ou Estágio**, com foco em evolu
 ## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,html,css,docker,postgres,git,linux,python" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css,docker,postgres,git,linux,python" />
 </p>
 
 ---
@@ -41,15 +41,16 @@ Plataforma web para gerenciamento de competições esportivas, times e institui�
 
 **Destaques técnicos:**
 - Backend em Python  
-- Lógica de sistema e regras de negócio  
-- Estrutura de aplicação web  
-- Modelagem de dados  
+- Estrutura de sistema e regras de negócio  
+- Integração de dados  
+- Modelagem de aplicação  
 
 ---
 
 ### ⚙️ Projetos em desenvolvimento
+- Aplicações web com React  
 - APIs REST com Node.js + TypeScript  
-- Sistemas com autenticação JWT  
+- Autenticação JWT  
 - Integração com PostgreSQL  
 - Estudos de Docker e deploy  
 
