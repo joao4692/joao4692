@@ -1,67 +1,57 @@
 <h1 align="center">João Carlos | Desenvolvedor Full Stack</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript+%7C+Python;Docker+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+reais+e+escal%C3%A1veis" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F80ED&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Node.js+%7C+TypeScript;APIs+%7C+Docker+%7C+PostgreSQL;Construindo+solu%C3%A7%C3%B5es+reais+e+escal%C3%A1veis" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Sou desenvolvedor Full Stack focado em construir aplicações web modernas, APIs robustas e sistemas escaláveis.
+Sou desenvolvedor Full Stack com foco principal em **Node.js e TypeScript**, atuando na criação de APIs, sistemas web e aplicações escaláveis.
 
-Tenho experiência prática com backend, automação e bancos de dados relacionais, sempre buscando escrever código limpo, organizado e pronto para produção.
+Tenho experiência com bancos de dados relacionais, Docker e integração de sistemas.
 
-Atualmente estou em busca de oportunidades como **Desenvolvedor Júnior ou Estágio**, com foco em evolução profissional através de projetos reais.
+Também possuo experiência com Python em projetos de backend e lógica de aplicações.
+
+Busco oportunidade como **Desenvolvedor Júnior ou Estágio**, com foco em evolução técnica e participação em projetos reais.
 
 ---
 
-## Stack de Tecnologias
+## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,js,html,css,docker,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,html,css,docker,postgres,git,linux,python" />
 </p>
 
 ---
 
-## Experiência prática / Projetos
+## Projetos
 
-### Sistema de Estoque Web
-Sistema de controle de estoque desenvolvido para organização de produtos e gestão de entradas e saídas.
+### 🏆 Esportefull – Plataforma de Esportes
+Plataforma web para gerenciamento de competições esportivas, times e instituições.
 
-**Tecnologias:**
-- Python (Flask)
-- WordPress + Elementor
-- HTML/CSS
+🔗 Repositório: https://github.com/joao4692/Esportefull
 
-**Destaques:**
-- Controle de produtos por categoria
-- Estrutura simples e funcional
-- Foco em aprendizado de backend e lógica de sistemas
+**Funcionalidades:**
+- Cadastro de times e instituições  
+- Gestão de competições  
+- Organização de dados esportivos  
+- Sistema estruturado para escalabilidade  
 
----
-
-### API REST (Em desenvolvimento)
-API backend com foco em autenticação e estrutura escalável.
-
-**Tecnologias:**
-- Node.js
-- TypeScript
-- PostgreSQL
-- Docker
-
-**Destaques:**
-- Estrutura modular
-- Autenticação JWT
-- Preparação para deploy
+**Destaques técnicos:**
+- Backend em Python  
+- Lógica de sistema e regras de negócio  
+- Estrutura de aplicação web  
+- Modelagem de dados  
 
 ---
 
-### Automação com Python (Estudos)
-Scripts para automação de tarefas e produtividade.
-
-**Tecnologias:**
-- Python
+### ⚙️ Projetos em desenvolvimento
+- APIs REST com Node.js + TypeScript  
+- Sistemas com autenticação JWT  
+- Integração com PostgreSQL  
+- Estudos de Docker e deploy  
 
 ---
 
@@ -77,20 +67,26 @@ Scripts para automação de tarefas e produtividade.
 
 ---
 
-## Objetivo profissional
-
-Busco oportunidade como **Desenvolvedor Júnior ou Estágio em Desenvolvimento Web**, atuando em backend ou full stack, com foco em aprendizado contínuo, evolução técnica e participação em projetos reais.
-
----
-
 ## Contato
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/joao-carlos-leite-da-silva-452319333">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5581987033735">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
+---
+
 <p align="center">
-  <b>Aberto a oportunidades e colaboração em projetos.</b>
+  <b>Aberto a oportunidades como Desenvolvedor Júnior ou Estágio.</b>
 </p>
