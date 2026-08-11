@@ -8,7 +8,7 @@
 
 ## Perfil 
 
-Desenvolvedor Full Stack com foco em **Node.js, TypeScript e React**, atuando na construção de sistemas web completos, APIs escaláveis e aplicações modernas.
+Desenvolvedor Full Stack com foco em **Java,Node.js, TypeScript e React**, atuando na construção de sistemas web completos, APIs escaláveis e aplicações modernas.
 
 Tenho experiência prática em arquitetura de backend, integração de sistemas e modelagem de dados, com atenção a boas práticas e organização de código.
 
@@ -19,7 +19,7 @@ Busco oportunidades como **Desenvolvedor Júnior ou Estágio**, com foco em evol
 ## Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,typescript,javascript,html,css" />
 </p>
 
 <p align="center">
