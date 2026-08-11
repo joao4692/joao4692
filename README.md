@@ -19,7 +19,7 @@ Busco oportunidades como **Desenvolvedor Júnior ou Estágio**, com foco em evol
 ## Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,react,nodejs,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,react,nodejs,typescript,angular" />
 </p>
 
 <p align="center">
