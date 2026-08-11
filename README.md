@@ -1,14 +1,14 @@
 <h1 align="center">João Carlos | Full Stack Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+focado+em+Node.js+e+React;Cria%C3%A7%C3%A3o+de+APIs+escal%C3%A1veis+e+sistemas+web;Arquitetura+de+backends+modernos+com+TypeScript;Constru%C3%A7%C3%A3o+de+produtos+digitais+reais" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+focado+em+Java,Node.js+e+React;Cria%C3%A7%C3%A3o+de+APIs+escal%C3%A1veis+e+sistemas+web;Arquitetura+de+backends+modernos+com+TypeScript;Constru%C3%A7%C3%A3o+de+produtos+digitais+reais" />
 </p>
 
 ---
 
 ## Perfil 
 
-Desenvolvedor Full Stack com foco em **Java,Node.js, TypeScript e React**, atuando na construção de sistemas web completos, APIs escaláveis e aplicações modernas.
+Desenvolvedor Full Stack com foco em **Java, Node.js, TypeScript e React**, atuando na construção de sistemas web completos, APIs escaláveis e aplicações modernas.
 
 Tenho experiência prática em arquitetura de backend, integração de sistemas e modelagem de dados, com atenção a boas práticas e organização de código.
 
