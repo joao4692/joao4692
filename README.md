@@ -29,13 +29,40 @@ Busco oportunidades como **Desenvolvedor Júnior ou Estágio**, com foco em evol
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,typescript,react,angular&theme=dark" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,linux,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,linux,python,opencv&theme=dark" />
 
 </div>
 
 <br/>
 
 ## Projetos Relevantes
+
+### Sistema de Estacionamento Inteligente
+
+Sistema de monitoramento de vagas em tempo real usando visão computacional para detectar entrada e saída de veículos, integrado a um backend event-driven e um painel Angular com atualização ao vivo.
+
+**Repositório:** [github.com/joao4692/camera-monitoramento](https://github.com/joao4692/camera-monitoramento)
+
+**Descrição técnica:**
+Serviço em Python com OpenCV processa o stream de vídeo (câmera Aitek via RTSP na versão de produção; câmera de celular na fase de testes) e detecta eventos de entrada/saída, que são enviados via WebSocket para um backend Node.js. O backend valida, aplica as regras de negócio e persiste os eventos no Postgres via Prisma, atualizando o frontend Angular em tempo real.
+
+**Stack utilizada:**
+
+<img src="https://skillicons.dev/icons?i=python,opencv,nodejs,express,ts,angular,postgres,prisma&theme=dark" height="40" />
+
+**Responsabilidades técnicas:**
+- Arquitetura MVC + Repositories no backend
+- Comunicação em tempo real Python → Node.js → Angular via WebSocket
+- Modelagem de dados (Estacionamento, Evento, Usuário) com Prisma
+- Autenticação JWT para área administrativa e tela pública sem login
+- Validação de payloads com Zod e tratamento global de erros
+
+**Destaques:**
+- Arquitetura desacoplada: câmera física pode ser trocada sem impactar backend/frontend
+- Fluxo de dados em tempo real ponta a ponta (visão computacional → banco → UI)
+- Documentação técnica própria guiando escopo e decisões do projeto
+
+<br/>
 
 ### Esportefull — Plataforma de Gestão Esportiva
 
