@@ -168,16 +168,12 @@ Sistema completo para gerenciamento de competições, times e instituições esp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=joao4692&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao4692&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,angular,postgres,docker,python,git&theme=dark" height="60"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=joao4692&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joao4692&theme=tokyo-night&hide_border=true" />
+<img src="https://img.shields.io/github/stars/joao4692?style=for-the-badge&color=2F80ED&labelColor=0F2027" />
+<img src="https://img.shields.io/github/followers/joao4692?style=for-the-badge&color=2F80ED&labelColor=0F2027" />
 
 </div>
 
