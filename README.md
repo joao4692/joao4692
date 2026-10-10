@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2F80ED&height=220&section=header&text=João%20Carlos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2F80ED&height=220&section=header&text=João%20Carlos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Analista%20de%20Sistemas&descAlignY=55&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Java+Developer+em+especializa%C3%A7%C3%A3o+com+Spring;Base+s%C3%B3lida+em+arquitetura%2C+banco+de+dados+e+deploy;An%C3%A1lise+de+dados+com+SQL+e+Python;Constru%C3%A7%C3%A3o+de+sistemas+web+completos" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=750&lines=Desenvolvedor+Backend+Java+%2B+Spring;Analista+de+Sistemas+com+foco+em+solu%C3%A7%C3%B5es+e+arquitetura;Testes%2C+infraestrutura+e+entrega+automatizada;Seguran%C3%A7a+de+ponta+a+ponta" />
 
 <br/>
 
@@ -13,15 +13,28 @@
 
 <br/>
 
+```java
+public class JoaoCarlos {
+
+    String   titulo = "Desenvolvedor Backend | Analista de Sistemas";
+    String   foco   = "Soluções e arquitetura";
+    String[] base   = { "Java", "Spring", "Padrões de arquitetura" };
+    String[] alem   = { "Infraestrutura", "Testes", "Entrega automatizada", "Segurança" };
+
+}
+```
+
 ## Sobre mim
 
-Comecei minha jornada como desenvolvedor Full Stack com **Node.js, TypeScript e React**, construindo aplicações reais para clientes e desenvolvendo uma base sólida em arquitetura de software, banco de dados, Git, Docker e deploy de aplicações.
+Sou **desenvolvedor backend Java**, com base em **Spring** e em **padrões de arquitetura**. Além de desenvolver, acompanho o sistema por inteiro: como ele é desenhado, testado, colocado em produção e protegido.
 
-Ao aprofundar meus estudos em **Java**, percebi que essa base de arquitetura e boas práticas — já consolidada — me permitiu evoluir rápido na linguagem. Isso me fez decidir seguir carreira como **Desenvolvedor Java**, hoje minha especialidade principal com o ecossistema **Spring**.
+Por isso me aprofundo no que sustenta uma aplicação além do código: **arquitetura de soluções**, **infraestrutura**, **testes** e a automação do caminho entre o commit e a produção. Somo a isso noções de **cibersegurança**, aplicadas de ponta a ponta, da validação de dados na API ao hardening do servidor.
 
-Estou me especializando para ser um desenvolvedor completo: além de programar sistemas em Java/Spring, busco domínio em **análise de dados** (SQL avançado, Python, dashboards) e em fazer um **deploy de aplicações bem feito** (Docker, CI/CD, hardening de servidores).
+No dia a dia, estou sempre testando, analisando sistemas e buscando a solução mais adequada para cada problema. É o olhar de **analista de sistemas** somado ao de desenvolvedor.
 
-Busco oportunidades como **Desenvolvedor Java Júnior**, com foco em evolução contínua e participação em produtos reais.
+Comecei no Full Stack com **Node.js, TypeScript e React**, entregando aplicações reais para clientes. Essa experiência me deu visão do sistema completo e facilitou minha evolução no ecossistema Java.
+
+Estou aberto a oportunidades como **Desenvolvedor Backend Java**, com foco em evolução contínua e participação em produtos reais.
 
 <br/>
 
@@ -35,45 +48,51 @@ Busco oportunidades como **Desenvolvedor Java Júnior**, com foco em evolução 
 
 <div align="center">
 
-**Programação de sistemas em Java + Spring**
+**Desenvolvimento backend em Java + Spring**
 
 </div>
 
 <br/>
 
-## Pilares Complementares
+## Além do código
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Análise de Dados**
+**Arquitetura & Soluções**
 
-<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="35"/>
-
-SQL avançado, bancos relacionais, dashboards, Python (pandas, OpenCV)
+Padrões de arquitetura, separação em camadas, modelagem de dados e análise de sistemas para chegar à solução certa antes de escrever código
 
 </td>
 <td valign="top" width="33%">
 
-**DevOps & Deploy**
+**Testes & Qualidade**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" height="35"/>
-
-Docker, CI/CD, VPS Linux (Hostinger), hardening de servidores
+Testes como parte do desenvolvimento, validação de regras de negócio e análise constante do comportamento do sistema
 
 </td>
 <td valign="top" width="33%">
 
-**Full Stack (base)**
+**Infraestrutura & Segurança**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,angular,ts&theme=dark" height="35"/>
-
-Node.js, TypeScript, React, Angular — stack anterior, domínio de arquitetura mantido
+Docker, VPS Linux, entrega automatizada do commit à produção e hardening de servidores, com noções de cibersegurança
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+**Base complementar**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,react,angular,python,linux,github&theme=dark" height="35"/>
+
+Node.js, TypeScript, React, Angular e Python: stack anterior, com domínio de arquitetura mantido
+
+</div>
 
 <br/>
 
@@ -145,10 +164,11 @@ Sistema completo para gerenciamento de competições, times e instituições esp
 
 ### Em evolução
 
-- Sistemas em Java + Spring
-- Análise de dados com SQL avançado e dashboards
-- Automação e visão computacional com Python (OpenCV, pandas)
-- Deploy de aplicações com Docker, CI/CD e hardening de servidores (VPS Linux, Render, Hostinger)
+- Sistemas backend em Java + Spring
+- Padrões de arquitetura e desenho de soluções
+- Testes automatizados e análise de sistemas
+- Entrega automatizada com Docker e hardening de servidores (VPS Linux, Render, Hostinger)
+- Segurança aplicada ao ciclo completo da aplicação
 
 <br/>
 
@@ -159,6 +179,7 @@ Sistema completo para gerenciamento de competições, times e instituições esp
 | Código limpo | Organização e legibilidade em primeiro lugar |
 | Separação de responsabilidades | Camadas bem definidas (controller/service/repository) |
 | Estrutura escalável | Backend pensado para crescer sem retrabalho |
+| Testes | Comportamento validado antes de chegar à produção |
 | Segurança | Hardening de servidores como prática padrão em todo deploy |
 | Performance | Atenção a queries, cache e boas práticas de API |
 
@@ -198,8 +219,6 @@ Sistema completo para gerenciamento de competições, times e instituições esp
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=2F80ED&center=true&vCenter=true&width=500&lines=Dispon%C3%ADvel+para+oportunidades;Java+Developer+em+especializa%C3%A7%C3%A3o" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=2F80ED&center=true&vCenter=true&width=500&lines=Dispon%C3%ADvel+para+oportunidades;Desenvolvedor+Backend+%7C+Analista+de+Sistemas" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:0F2027&height=100&section=footer" />
