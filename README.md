@@ -88,7 +88,7 @@ Docker, VPS Linux, entrega automatizada do commit à produção e hardening de s
 
 **Base complementar**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,react,angular,python,linux,github&theme=dark" height="35"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,react,angular,python&theme=dark" height="35" />
 
 Node.js, TypeScript, React, Angular e Python: stack anterior, com domínio de arquitetura mantido
 
@@ -98,31 +98,34 @@ Node.js, TypeScript, React, Angular e Python: stack anterior, com domínio de ar
 
 ## Projetos Relevantes
 
-### Sistema de Estacionamento Inteligente
+### Sistema de Estacionamento Inteligente — Backend Java
 
-Sistema de monitoramento de vagas em tempo real usando visão computacional para detectar entrada e saída de veículos, integrado a um backend event-driven e um painel Angular com atualização ao vivo.
+Backend em Java + Spring Boot de um sistema de monitoramento de vagas em tempo real. Recebe os eventos de entrada e saída de veículos detectados por visão computacional, aplica as regras de negócio, persiste no PostgreSQL e atualiza o painel Angular ao vivo.
 
-**Repositório:** [github.com/joao4692/camera-monitoramento](https://github.com/joao4692/camera-monitoramento)
+**Repositório:** [github.com/joao4692/CameraMonitoramento_backend](https://github.com/joao4692/CameraMonitoramento_backend)
+
+**Status:** em desenvolvimento. Autenticação e gestão de estacionamentos e vagas concluídas; recebimento de eventos e atualização em tempo real em andamento.
 
 **Descrição técnica:**
-Serviço em Python com YOLO + OpenCV processa o stream de vídeo (câmera via RTSP na versão de produção; câmera de celular na fase de testes) e detecta eventos de entrada/saída, enviados via WebSocket para um backend Node.js. O backend valida, aplica as regras de negócio e persiste os eventos no Postgres via Prisma, atualizando o frontend Angular em tempo real.
+API REST protegida com Spring Security + JWT, com persistência via Spring Data JPA no PostgreSQL 16. O backend se integra a dois serviços mantidos em repositórios separados: um serviço Python (câmera + OpenCV), que envia os eventos de detecção, e um frontend Angular, que consome a API e recebe as atualizações via WebSocket. Os eventos são processados por meio de uma fila de mensagens (RabbitMQ).
 
 **Stack utilizada:**
 
-<img src="https://skillicons.dev/icons?i=python,opencv,nodejs,express,ts,angular,postgres,prisma&theme=dark" height="40" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,rabbitmq,docker&theme=dark" height="40" />
+
+Java 17 · Spring Boot 3.3.0 · Maven · PostgreSQL 16 · RabbitMQ · Docker Compose
 
 **Responsabilidades técnicas:**
-- Arquitetura MVC + Repositories no backend
-- Comunicação em tempo real Python → Node.js → Angular via WebSocket
-- Modelagem de dados (Estacionamento, Evento, Usuário) com Prisma
-- Autenticação JWT para área administrativa e tela pública sem login
-- Validação de payloads com Zod e tratamento global de erros
-- Otimização para hardware sem GPU (processamento em CPU)
+- Autenticação e autorização com Spring Security + JWT
+- API REST para gerenciamento de estacionamentos e vagas
+- Persistência com Spring Data JPA e validação de entrada com Bean Validation
+- Banco de dados em Docker Compose, com credenciais fora do código (variáveis de ambiente)
+- Em andamento: recebimento dos eventos do serviço Python, processamento via fila e broadcast em tempo real por WebSocket
 
 **Destaques:**
-- Arquitetura desacoplada: câmera física pode ser trocada sem impactar backend/frontend
-- Fluxo de dados em tempo real ponta a ponta (visão computacional → banco → UI)
-- Documentação técnica própria guiando escopo e decisões do projeto
+- Nova versão em Java + Spring do backend do projeto, antes escrito em Node.js
+- Arquitetura desacoplada: detecção, backend e frontend evoluem em repositórios independentes
+- Plano de desenvolvimento por etapas documentado, guiando escopo e decisões do projeto
 
 <br/>
 
