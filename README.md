@@ -19,7 +19,7 @@ const joao = {
 };
 ```
 
-## `> olá`
+## Sobre mim
 
 Sou o João, desenvolvedor de Recife. Gosto de construir aplicações que saem do papel e vão para o ar: desenho a interface, escrevo a API, configuro o servidor e acompanho o sistema depois que ele está rodando.
 
@@ -31,7 +31,7 @@ Desde 2025 trabalho com clientes reais como freelancer, e isso me ensinou que en
 
 <br/>
 
-## `> stack`
+## Tecnologias
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Desde 2025 trabalho com clientes reais como freelancer, e isso me ensinou que en
 
 <br/>
 
-## `> projetos`
+## Projetos
 
 ### Estacionamento Inteligente — Backend Java
 
@@ -121,7 +121,7 @@ A arquitetura foi refeita em componentes reutilizáveis, e todo o conteúdo fico
 
 <br/>
 
-## `> agora`
+## Atualmente
 
 Cursando **Análise e Desenvolvimento de Sistemas** na Estácio, evoluindo em Java e Spring, Python e SQL para análise de dados, arquitetura hexagonal, testes e CI/CD. Também atuo como voluntário ensinando lógica de programação e informática, o que me obriga a explicar com clareza o que eu mesmo aprendi.
 
@@ -137,7 +137,7 @@ Cursando **Análise e Desenvolvimento de Sistemas** na Estácio, evoluindo em Ja
 
 <br/>
 
-## `> contato`
+## Contato
 
 <div align="center">
 
