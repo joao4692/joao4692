@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F2A44,100:00B4D8&height=230&section=header&text=João%20Carlos&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20de%20Software%20·%20Front-end%20e%20Back-end&descAlignY=56&descSize=19" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F2A44,100:00B4D8&height=230&section=header&text=João%20Carlos&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Analista%20Desenvolvedor&descAlignY=56&descSize=19" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=760&lines=%3E+Interfaces+com+React+%2B+TypeScript;%3E+APIs+REST+com+Node.js+e+Express;%3E+IA+em+produ%C3%A7%C3%A3o+com+seguran%C3%A7a+em+camadas;%3E+Aprofundando+Java+%2B+Spring" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00B4D8&center=true&vCenter=true&width=760&lines=%3E+Interfaces+com+React+%2B+TypeScript;%3E+APIs+REST+com+Node.js+e+Express;%3E+IA+em+produ%C3%A7%C3%A3o+com+seguran%C3%A7a+em+camadas;%3E+Backend+em+Java+%2B+Spring;%3E+Python+e+SQL+para+an%C3%A1lise+de+dados" />
 
 </div>
 
@@ -13,7 +13,8 @@ const joao = {
   faz:        "aplicações web completas, da interface ao deploy",
   frontend:   ["React", "TypeScript"],
   backend:    ["Node.js", "Express", "APIs REST"],
-  estudando:  ["Java", "Spring"],
+  evoluindo:  ["Java", "Spring", "RabbitMQ"],
+  dados:      ["Python", "SQL"],
   principio:  "a ferramenta certa para cada problema, com segurança desde o início",
 };
 ```
@@ -22,7 +23,7 @@ const joao = {
 
 Sou o João, desenvolvedor de Recife. Gosto de construir aplicações que saem do papel e vão para o ar: desenho a interface, escrevo a API, configuro o servidor e acompanho o sistema depois que ele está rodando.
 
-Meu ponto forte hoje é o ecossistema **JavaScript**: interfaces com **React e TypeScript** e APIs com **Node.js e Express**. Em paralelo, estou me aprofundando em **Java com Spring** e estudando arquitetura de software, porque acredito que escolher bem a ferramenta vale tanto quanto saber usá-la.
+Meu ponto forte hoje é o ecossistema **JavaScript**: interfaces com **React e TypeScript** e APIs com **Node.js e Express**. Em paralelo, estou me aprofundando em **Java com Spring**, já aplicado em um projeto com mensageria e tempo real, e usando **Python e SQL para análise de dados**. Estudo arquitetura de software porque acredito que escolher bem a ferramenta vale tanto quanto saber usá-la.
 
 Uma coisa que levo para todo projeto é **segurança**. O que coloco em produção tem controle de acesso, limite de requisições e validação de dados desde a primeira versão, não como remendo depois.
 
@@ -54,13 +55,41 @@ Desde 2025 trabalho com clientes reais como freelancer, e isso me ensinou que en
 
 **Em evolução**
 
-<img src="https://skillicons.dev/icons?i=java,spring&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,rabbitmq&theme=dark" height="48" />
+
+<br/><br/>
+
+**Análise de Dados**
+
+<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" height="48" />
 
 </div>
 
 <br/>
 
 ## `> projetos`
+
+### Estacionamento Inteligente — Backend Java
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,rabbitmq,docker&theme=dark" height="32" />
+
+Um sistema que monitora vagas de estacionamento em tempo real usando visão computacional. Uma câmera com OpenCV detecta a entrada e a saída de veículos, o backend aplica as regras de negócio e um painel em Angular mostra a ocupação ao vivo.
+
+Este é o backend, uma nova versão em **Java + Spring Boot** de um projeto que eu tinha escrito em Node.js. O sistema foi pensado desacoplado desde o início: o serviço de detecção em Python, o backend e o frontend vivem em repositórios separados e evoluem de forma independente.
+
+```
+câmera (Python + OpenCV) ──► RabbitMQ ──► API Spring ──► PostgreSQL
+                                              │
+                                              └──► WebSocket ──► painel Angular
+```
+
+A API REST é protegida com Spring Security e JWT, persiste dados com Spring Data JPA no PostgreSQL 16 e valida a entrada com Bean Validation. O banco roda em Docker Compose, com credenciais fora do código. Autenticação e gestão de estacionamentos e vagas já estão prontas. Agora estou construindo o recebimento dos eventos pela fila e o envio em tempo real por WebSocket, seguindo um plano de desenvolvimento por etapas documentado no repositório.
+
+Java 17 · Spring Boot 3.3 · Maven · PostgreSQL 16 · RabbitMQ · Docker Compose · `em desenvolvimento`
+
+[`github.com/joao4692/CameraMonitoramento_backend`](https://github.com/joao4692/CameraMonitoramento_backend)
+
+<br/>
 
 ### API de Atendimento com IA
 
@@ -94,7 +123,7 @@ A arquitetura foi refeita em componentes reutilizáveis, e todo o conteúdo fico
 
 ## `> agora`
 
-Cursando **Análise e Desenvolvimento de Sistemas** na Estácio, estudando Java e Spring, arquitetura hexagonal, testes e CI/CD. Também atuo como voluntário ensinando lógica de programação e informática, o que me obriga a explicar com clareza o que eu mesmo aprendi.
+Cursando **Análise e Desenvolvimento de Sistemas** na Estácio, evoluindo em Java e Spring, Python e SQL para análise de dados, arquitetura hexagonal, testes e CI/CD. Também atuo como voluntário ensinando lógica de programação e informática, o que me obriga a explicar com clareza o que eu mesmo aprendi.
 
 <br/>
 
